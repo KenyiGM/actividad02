@@ -1,4 +1,4 @@
 # actividad02
-actividad mvc - api - php
+api - php
 
-> Se uso Xampp para el desarrollo
+Se uso Xampp para el desarrollo
